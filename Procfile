@@ -1,1 +1,1 @@
-web: python eyemouse:app
+web: gunicorn eyemouse:app
